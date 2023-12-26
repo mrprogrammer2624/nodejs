@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "preatice node js in this folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "your server is start",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Trupesh Savaliya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
